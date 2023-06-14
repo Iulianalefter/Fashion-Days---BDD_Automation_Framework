@@ -31,10 +31,4 @@ pip install webdriver-manager
 
 behave -f html -o behave-report.html
 
-Troubleshoot:
 
-a. Daca nu funcționează cu pip încercați comanda: py -m pip install selenium
-
-b. Dacă nici așa nu reusiți: File -> Settings -> Click pe Project: [nume_proiect] -> Python Interpreter -> + Cautati 'selenium' -> Install Package La fel si pentru restul librăriilor.
-
-c. Click pe tabul de jos 'Python Packages' din consolă. Căutati și instalați pachetele de mai sus.
